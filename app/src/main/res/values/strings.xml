@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">searchviewretrofit</string>
+    <string name="user_name">Kullanıcı Adı: </string>
+    <string name="user_email">E-posta: </string>
+    <string name="user_city">Şehir: </string>
+    <string name="user_web_page">Web: </string>
+</resources>
